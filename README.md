@@ -4,13 +4,16 @@
 
 ## 스프링 프레임워크를 활용한 미니 쇼핑몰 프로젝트
 
+### SHOP DB ERD
+![GitPyCrawler](https://github.com/irerin07/minishoppingmall/blob/develop/ERD/shopdb%20ERD.PNG?raw=true "GitPyCrawler")
+
+------------------------------------------
 ## 조원
 
 * 김대용
 * 민경수
 * 윤여훈
 * 정미수
-
 ------------------------------------------
 1. 웰컴페이지
  - 검색 기능(상품이름 검색)
